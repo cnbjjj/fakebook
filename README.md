@@ -1,4 +1,4 @@
-## OOP Javascript practice
+## OOP JavaScript practice
 
 [Click to view](https://cnbjjj.github.io/fakebook).
 
